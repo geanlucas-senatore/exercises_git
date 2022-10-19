@@ -1,2 +1,2 @@
 # exercises_git
-Only exercises of pull. push, merge, and rebase in git
+I am editing the README file. Adding some more details about the project description.
